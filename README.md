@@ -1,5 +1,7 @@
-### Hi there 👋
+### HELLO WORLD! 👋
+보초딩코
 
+[![mushroomsando's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushroomsando)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mushroomsando/mushroomsando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
